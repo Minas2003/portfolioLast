@@ -183,6 +183,11 @@ h1 {
     color: #98FAEC;
     text-align: center;
 	margin-top: -40px;
+	text-shadow:
+        0 0 5px #0ff,
+        0 0 10px #0ff,
+        0 0 20px #0ff,
+        0 0 40px #0ff;
 }
 
 .hero {
